@@ -73,7 +73,7 @@ Eşit, toplum etiğine uyumlu, mevcut düzenlemelere ve bireylerin veri gizlili�
 2.	Ethics in Natural Language Processing, https://web.archive.org/web/20231220011711/https://dida.do/blog/ethics-in-natural-language-processing, Marty Oelschläger, Aralık 2021.
 3.	The Social Impact of Natural Language Processing, Dirk Hovy, Shannon L. Spruit.
 4.	Ethical Considerations in Artificial Intelligence Courses, Emanuelle Burton et al., 2017
-5.	Towards Climate Awareness in NLP Research, {Daniel Hershcovich and Nicolas Webersinke and Mathias Kraus and Julia Anna Bingler and Markus Leippold, arXiv ön baskısı, 2205.05071, 2022.
+5.	Towards Climate Awareness in NLP Research, Daniel Hershcovich and Nicolas Webersinke and Mathias Kraus and Julia Anna Bingler and Markus Leippold, arXiv ön baskısı, 2205.05071, 2022.
 
-## Öğrenci Bilgileri
+## ÖĞRENCİ BİLGİLERİ
     Alperen Demir, Erciyes Universitesi, 1030510268
