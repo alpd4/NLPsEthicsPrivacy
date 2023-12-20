@@ -74,3 +74,6 @@ Eşit, toplum etiğine uyumlu, mevcut düzenlemelere ve bireylerin veri gizlili�
 3.	The Social Impact of Natural Language Processing, Dirk Hovy, Shannon L. Spruit.
 4.	Ethical Considerations in Artificial Intelligence Courses, Emanuelle Burton et al., 2017
 5.	Towards Climate Awareness in NLP Research, {Daniel Hershcovich and Nicolas Webersinke and Mathias Kraus and Julia Anna Bingler and Markus Leippold, arXiv ön baskısı, 2205.05071, 2022.
+
+## Öğrenci Bilgileri
+    Alperen Demir, Erciyes Universitesi, 1030510268
