@@ -1,5 +1,6 @@
-site_name:  DOĞAL DİL İŞLEME UYGULAMALARINDA VERİ GİZLİLİĞİ VE KARŞILAŞILAN ETİK SORUNLAR
+site_name:  NLP UYGULAMALARINDA VERİ GİZLİLİĞİ VE KARŞILAŞILAN ETİK SORUNLAR
 
 
 repo_name: NLPsTrendsAndFuture
 repo_url: https://github.com/alpd4/NLPsTrendsAndFuture/
+edit_uri: 'https://github.com/alpd4/NLPsTrendsAndFuture/tree/main/nlpethicsandprivacy/docs'
