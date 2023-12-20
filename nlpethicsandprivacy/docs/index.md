@@ -62,7 +62,7 @@ NLP uygulamalarında veri gizliliğinin sağlanması için bir diğer yol ise to
 
 ## SONUÇ
 
-Sonuç olarak, Doğal Dil İşleme uygulamaları geliştirirken, uygulamanın gerçek dünyadaki etkisinin farkında olmamız ve amaçladığımız hedefler ile elde edilen sonuçlar arasındaki ilişkiyi analiz edebilmemiz gerekmektedir. NLP uygulamalarının sorumlu kullanımı, ön yargı, eşitlik ve veri gizliliği konularının gözetilmesini ve bu alanlarda doğan etik sonuçların dikkate alınmasını gerektirir. Bu etik hususların göz ardı edilmemesi kritiktir.
+Sonuç olarak, Doğal Dil İşleme uygulamaları geliştirirken, uygulamanın gerçek dünyadaki etkisinin farkında olmamız ve amaçladığımız hedefler ile elde edilen sonuçlar arasındaki ilişkiyi analiz edebilmemiz gerekmektedir. NLP uygulamalarının sorumlu kullanımı, ön yargı, eşitlik ve veri gizliliği konularının gözetilmesini ve bu alanlarda doğan etik sonuçların dikkate alınmasını gerektirir. Bu etik konularının göz ardı edilmemesi kritiktir.
 
 Eşit, toplum etiğine uyumlu, mevcut düzenlemelere ve bireylerin veri gizliliğine saygılı NLP modellerinim varlığı toplumsal ve kurumların Doğal Dil İşleme uygulamalarına olan güven, destek ve saygısını arttıracaktır. Bu durumun, NLP uygulamalarının gelişimini hızlandıracak bir bir etki yaratabileceği gerçeği unutulmamalıdır. Teknolojideki gelişimin devam etmesi için bu teknolojinin gerektirdiği yüksek enerji ve ortaya koyduğu çevresel etkinin dikkate alınması, toplum ve NLP uygulamaları için uzun vadede önemlidir.
 
